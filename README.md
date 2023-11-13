@@ -6,10 +6,10 @@ My design goals are as follows:
 -	Accepts instrument-level and line-level audio inputs
 -	Runs on common 9V guitar pedal power supplies
 -	Implementations of common audio effects:
- - Saturation/distortion, fuzz
- - Phaser, vibrato, chorus
- - Digital delay, tape delay emulation
- - Studio-quality reverb
+    -	Saturation/distortion, fuzz
+    -	Phaser, vibrato, chorus
+    -	Digital delay, tape delay emulation
+    -	Studio-quality reverb
 
 ![corner](https://github.com/EthanL67/teensy-dsp/assets/47995445/728e4b98-5075-4833-af9a-0a5cff0c62a9)
 ![image](https://github.com/EthanL67/teensy-dsp/assets/47995445/af92a114-e3ec-4e30-acd6-f6376f621804)
